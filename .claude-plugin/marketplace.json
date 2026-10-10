@@ -1,0 +1,14 @@
+{
+  "name": "jiro",
+  "description": "Jiro Build for Claude: find and add production-ready website sections and full-page templates with Claude.",
+  "owner": {
+    "name": "Jiro Build"
+  },
+  "plugins": [
+    {
+      "name": "jiro-build",
+      "source": "./",
+      "description": "Find and add production-ready website sections and full-page templates from the Jiro Build library."
+    }
+  ]
+}

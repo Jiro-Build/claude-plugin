@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jiro-build": {
+      "type": "http",
+      "url": "https://mcp.jiro.build"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "jiro-build",
+  "displayName": "Jiro Build",
+  "version": "1.0.0",
+  "description": "Find production-ready website sections and full-page templates in the Jiro Build library (1,000+ React + Tailwind designs) and add them to your site — heroes, pricing tables, testimonials, FAQs, footers and complete landing pages.",
+  "author": {
+    "name": "Jiro Build",
+    "url": "https://jiro.build"
+  },
+  "homepage": "https://jiro.build/mcp",
+  "repository": "https://github.com/Jiro-Build/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "landing-page",
+    "templates",
+    "ui-components",
+    "react",
+    "tailwind",
+    "design",
+    "vibe-coding"
+  ]
+}
