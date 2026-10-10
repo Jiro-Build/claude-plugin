@@ -8,6 +8,7 @@
     "url": "https://jiro.build"
   },
   "homepage": "https://jiro.build/mcp",
+  "privacyPolicyUrl": "https://jiro.build/privacy-policy",
   "repository": "https://github.com/Jiro-Build/claude-plugin",
   "license": "MIT",
   "keywords": [
