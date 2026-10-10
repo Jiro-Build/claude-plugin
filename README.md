@@ -27,7 +27,7 @@ Claude searches with your words and filters (theme, look, industry, layout, moti
 
 ## Install
 
-- **Claude (web, desktop, Cowork)**: open **Customize → Plugins**, find **Jiro Build**, select **Add**, then connect the Jiro Build connector from the plugin's **Connectors** tab and sign in.
+- **Claude (web, desktop, Cowork)**: open **Customize → Plugins**, find **Jiro Build**, select **Add**, then connect the Jiro Build connector from the plugin's **Connectors** tab and sign in. You can also add this repository directly: **Customize → Plugins → Add → Add marketplace**, then enter `Jiro-Build/claude-plugin`.
 - **Claude Code**:
 
   ```bash
